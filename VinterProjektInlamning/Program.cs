@@ -16,9 +16,9 @@ namespace Project_Tamagothci
 
             while (myPet.GetAlive())
             {
-               
+
                 myPet.PrintStats();
-               
+
                 Console.WriteLine("Enter a command (feed, hi, teach, quit): ");
                 string command = Console.ReadLine();
 
@@ -43,6 +43,12 @@ namespace Project_Tamagothci
                     break;
                 }
 
-                
+
                 myPet.Tick();
             }
+
+             Console.WriteLine("Your tamagotchi has died. :(");
+            Console.ReadLine();
+        }
+    }
+}

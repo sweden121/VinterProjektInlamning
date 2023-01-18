@@ -17,7 +17,9 @@ namespace Project_Tamagothci
 
            private bool isAlive;
 
-
+       protected Random generator;
+    
+        public string name;
 
                    public VirtualPet()
         {

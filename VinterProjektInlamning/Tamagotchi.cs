@@ -27,3 +27,8 @@ using System.Threading.Tasks;
             ReduceBoredom();
         }
 
+ public new void PrintStats()
+        {
+            Console.WriteLine($"Name: {name} Hunger: {hunger} Boredom: {boredom} Vocabulary: {words.Count} words");
+        }
+    }
