@@ -1,0 +1,15 @@
+C:\Users\mesquitabohm.adrian\null\testavnya\null\VinterProjektInlamning\VinterProjektInlamning\obj\Debug\net6.0\VinterProjektInlamning.csproj.AssemblyReference.cache
+C:\Users\mesquitabohm.adrian\null\testavnya\null\VinterProjektInlamning\VinterProjektInlamning\obj\Debug\net6.0\VinterProjektInlamning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mesquitabohm.adrian\null\testavnya\null\VinterProjektInlamning\VinterProjektInlamning\obj\Debug\net6.0\VinterProjektInlamning.AssemblyInfoInputs.cache
+C:\Users\mesquitabohm.adrian\null\testavnya\null\VinterProjektInlamning\VinterProjektInlamning\obj\Debug\net6.0\VinterProjektInlamning.AssemblyInfo.cs
+C:\Users\mesquitabohm.adrian\null\testavnya\null\VinterProjektInlamning\VinterProjektInlamning\obj\Debug\net6.0\VinterProjektInlamning.csproj.CoreCompileInputs.cache
+C:\Users\mesquitabohm.adrian\null\testavnya\null\VinterProjektInlamning\VinterProjektInlamning\bin\Debug\net6.0\VinterProjektInlamning.exe
+C:\Users\mesquitabohm.adrian\null\testavnya\null\VinterProjektInlamning\VinterProjektInlamning\bin\Debug\net6.0\VinterProjektInlamning.deps.json
+C:\Users\mesquitabohm.adrian\null\testavnya\null\VinterProjektInlamning\VinterProjektInlamning\bin\Debug\net6.0\VinterProjektInlamning.runtimeconfig.json
+C:\Users\mesquitabohm.adrian\null\testavnya\null\VinterProjektInlamning\VinterProjektInlamning\bin\Debug\net6.0\VinterProjektInlamning.dll
+C:\Users\mesquitabohm.adrian\null\testavnya\null\VinterProjektInlamning\VinterProjektInlamning\bin\Debug\net6.0\VinterProjektInlamning.pdb
+C:\Users\mesquitabohm.adrian\null\testavnya\null\VinterProjektInlamning\VinterProjektInlamning\obj\Debug\net6.0\VinterProjektInlamning.dll
+C:\Users\mesquitabohm.adrian\null\testavnya\null\VinterProjektInlamning\VinterProjektInlamning\obj\Debug\net6.0\refint\VinterProjektInlamning.dll
+C:\Users\mesquitabohm.adrian\null\testavnya\null\VinterProjektInlamning\VinterProjektInlamning\obj\Debug\net6.0\VinterProjektInlamning.pdb
+C:\Users\mesquitabohm.adrian\null\testavnya\null\VinterProjektInlamning\VinterProjektInlamning\obj\Debug\net6.0\VinterProjektInlamning.genruntimeconfig.cache
+C:\Users\mesquitabohm.adrian\null\testavnya\null\VinterProjektInlamning\VinterProjektInlamning\obj\Debug\net6.0\ref\VinterProjektInlamning.dll

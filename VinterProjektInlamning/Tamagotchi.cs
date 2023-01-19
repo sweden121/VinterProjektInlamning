@@ -4,15 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-
- namespace Project_Tamagothci
+namespace Project_Tamagothci
 {
     public class Tamagotchi : VirtualPet<Tamagotchi>
     {
       
         private List<string> words = new List<string>() { "Hewwo" };
 
-       
+        
         public void Hi()
         {
             int wordNum = generator.Next(words.Count);
@@ -20,6 +19,7 @@ using System.Threading.Tasks;
             ReduceBoredom();
         }
 
+       
         public void Teach(string word)
         {
             Console.WriteLine($" [{name}] learns: {word}");
@@ -27,8 +27,10 @@ using System.Threading.Tasks;
             ReduceBoredom();
         }
 
- public new void PrintStats()
+       
+        public new void PrintStats()
         {
             Console.WriteLine($"Name: {name} Hunger: {hunger} Boredom: {boredom} Vocabulary: {words.Count} words");
         }
     }
+}
