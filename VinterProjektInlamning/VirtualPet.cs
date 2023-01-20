@@ -8,26 +8,26 @@ namespace Project_Tamagothci
 {
     public class VirtualPet<T>
     {
-        
+     // hungern leveln
         protected int hunger;
-        
+     // boredom leveln
         protected int boredom;
        
-
+        // kollar om den är vid liv eller inte
         private bool isAlive;
-       
+       // namnet på den 
         protected Random generator;
-       
+        
         public string name;
 
         public VirtualPet()
         {
-           
+            // startar random nuber generatorn
             generator = new Random();
             isAlive = true;
         }
 
-        
+         // matar den virtuella pet och sänker den hunger level
         public void Feed()
         {
             Console.WriteLine($" [{name}] eats and becomes less hungry");
@@ -38,7 +38,7 @@ namespace Project_Tamagothci
             }
         }
 
-        
+        // denna bit kollar om den är vid liv samt ökar hunger och boredom
         public void Tick()
         {
             hunger++;
@@ -49,19 +49,19 @@ namespace Project_Tamagothci
             }
         }
 
-        
+        // printar ut dens namn hunger och booredom level
         public void PrintStats()
         {
             Console.WriteLine($"Name: {name} Hunger: {hunger} Boredom: {boredom}");
         }
 
-        
+        // kollar om den är vid liv
         public bool GetAlive()
         {
             return isAlive;
         }
 
-       
+        // sänker booredom
         public void ReduceBoredom()
         {
             Console.WriteLine($" [{name}] is now less bored!");

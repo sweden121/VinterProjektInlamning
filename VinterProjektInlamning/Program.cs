@@ -16,9 +16,9 @@ namespace Project_Tamagothci
 
             while (myPet.GetAlive())
             {
-
+               // denna bit kod displayar tamagotchis stats
                 myPet.PrintStats();
-
+               // denna kod tar input från användaren
                 Console.WriteLine("Enter a command (feed, hi, teach, quit): ");
                 string command = Console.ReadLine();
 
@@ -43,7 +43,7 @@ namespace Project_Tamagothci
                     break;
                 }
 
-
+               // ökar hungern och boredom för varje level/tick
                 myPet.Tick();
             }
 
@@ -52,3 +52,8 @@ namespace Project_Tamagothci
         }
     }
 }
+           // så kortfattat så skapar denna del en instance av en tamagotchi class och ger den ett namn
+           // Den går också in i en loop som fortsätter så länge tamagotshin är vid liv
+           // i varje iteration av en loop så visar den också status av tamagotshin
+           // den tar samt användar input och omvandlar till  korrekt metod och ökar hunger och boordom
+           // sist men inte minst så avslutas loopen om tamagotshin dör och visar ett meddelandet.
