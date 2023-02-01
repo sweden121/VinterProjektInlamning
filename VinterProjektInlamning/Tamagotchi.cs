@@ -35,5 +35,5 @@ namespace Project_Tamagothci
     }
 }
 
-// denna del av koden så är Virtual pet en generic class och tamagotchin är inherited från den
+// denna kod skapar en Virtual pet med en generic class och tamagotchin är inherited från den
 // Tamagotshin classen overidar printstats metoden för att includera tamagotshins vocabulär
